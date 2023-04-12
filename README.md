@@ -1,2 +1,2 @@
 # webin
-website base hacking tools
+https://github.com/xmendez/wfuzz/tree/master/wordlist
