@@ -10,7 +10,8 @@
 
 <p align="center">
 <img src="https://img.shields.io/badge/Open%20Source-Yes-darkcyan?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Written%20In-Bash-darkblue?style=for-the-badge">
+<img src="https://img.shields.io/badge/Written%20In-Bash-darkblue?style=for-the-badge">
 <img src="https://img.shields.io/badge/author%20-1337r0j4n-brown?style=for-the-badge">
+<img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2F1337r0j4n%2Fwebin&countColor=%23263759">
 </p>
   
