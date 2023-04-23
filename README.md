@@ -15,3 +15,4 @@
 <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2F1337r0j4n%2Fwebin&countColor=%23263759">
 </p>
   
+  /catalog/view/javascript/common.js
