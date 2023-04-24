@@ -15,6 +15,26 @@
 <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2F1337r0j4n%2Fwebin&countColor=%23263759">
 </p>
 
+concrete/js/jquery.js
+https://www.aecenl.ca/
+https://www.danubylon.net/
+https://franchise.masonslobster.com/
+https://cajundesignmt.com/
+https://www.zeijoa.nz/
+
+files/templateArtifacts.js
+http://www.lsabers.com/
+http://www.rjvolksperformance.com/
+
+lib/exe/js.php
+https://www.dokuwiki.org/
+https://docs.gaivi.cse.usf.edu/
+
+jekyllrb.com
+https://yumoxu.github.io/
+https://fs-linguistics.github.io/
+https://mmistakes.github.io/
+https://vinaypn.github.io
 
 https://www.vbulletin.com/
 https://www.nhrep.gov.lk/
