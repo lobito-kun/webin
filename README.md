@@ -17,4 +17,6 @@
 
 sed 's/=.*$/=/'
 
+echo "http://example.com/page.php?id=12345" | grep -oP '(?<=\?)[^=]+'
+
 echo "http://lab.awh.zdresearch.com/chapter3/xss-labs/types/reflected.php?name=hello" | grep -oP '(?<=\?)[^=]+' | cut -d' ' -f1
