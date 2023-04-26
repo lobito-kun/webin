@@ -16,4 +16,5 @@
 </p>
 
 sed 's/=.*$/=/'
-| grep -oP '(?<=\?)[^=]+' | cut -d' ' -f1
+
+echo "http://lab.awh.zdresearch.com/chapter3/xss-labs/types/reflected.php?name=hello" | grep -oP '(?<=\?)[^=]+' | cut -d' ' -f1
