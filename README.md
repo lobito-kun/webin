@@ -15,8 +15,9 @@
 <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2F1337r0j4n%2Fwebin&countColor=%23263759">
 </p>
 
-sed 's/=.*$/=/'
-
-echo "http://example.com/page.php?id=12345" | grep -oP '(?<=\?)[^=]+'
-
-echo "http://lab.awh.zdresearch.com/chapter3/xss-labs/types/reflected.php?name=hello" | grep -oP '(?<=\?)[^=]+' | cut -d' ' -f1
+while IFS= read -r payloads; do                                                                                              xss=$(curl -A "$USER_AGENT" --max-time 5 -s -L -k $point$payloads | grep -oE "$payloads" | head -n 1)
+             if [[ $xss == $payloads ]]; then                                                                                            echo "    $payloads"                                                                                                    echo "$payloads" > output/$site/vulnpayloads.txt
+             else
+                 printf ''
+             fi
+    done < wordlist/xss_payloads.txt
