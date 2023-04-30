@@ -16,13 +16,4 @@
 </p>
 
 
-while IFS= read -r payloads; do
-    escaped_payloads=$(echo "$payloads" | sed 's/[\\\/.*^$(){}?+|]/\\&/g')
-    xss=$(curl -A "$USER_AGENT" --max-time 5 -s -L -k "$point$payloads" | grep -oF "$escaped_payloads" | head -n 1)
-    if [[ $xss == $payloads ]]; then
-        echo "    $payloads"
-        echo "$payloads" > "output/$site/vulnpayloads.txt"
-    else
-        printf ''
-    fi
-done < "wordlist/xss_payloads.txt"
+curl -s "https://example.com" | grep -Eo '<img[^>]+src="([^"]+)"' | sed -e 's/<img[^>]*src="//' -e 's/"[^>]*>//g'
