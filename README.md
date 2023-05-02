@@ -16,4 +16,4 @@
 </p>
 
 
-https://www.buddhanet.info/wbd/search.php?keyword=xss&search=Search&country_id=0&province_id=0
+| grep -oP '(?<=[&?])[^&]*'
