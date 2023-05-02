@@ -16,4 +16,4 @@
 </p>
 
 
-curl -s "https://example.com" | grep -Eo '<img[^>]+src="([^"]+)"' | sed -e 's/<img[^>]*src="//' -e 's/"[^>]*>//g'
+https://www.buddhanet.info/wbd/search.php?keyword=xss&search=Search&country_id=0&province_id=0
