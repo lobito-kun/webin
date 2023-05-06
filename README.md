@@ -15,4 +15,4 @@
 <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2F1337r0j4n%2Fwebin&countColor=%23263759">
 </p>
 
-https://jldc.me/anubis/subdomains/google.com
+curl "https://www.google.com/search?q=DORK&start=$limit0" -A 'Mozilla/5.0 (Windows NT 10.0; Win64; x64)' -s | grep -Eoi '<a [^>]+>' |  grep -Eo 'href="[^\"]+"'  | grep -o 'http[^&]*' | sed 's/%3F/?/g; s/%3D/=/g;  s/%26/&/g' | grep -v "google.com"
