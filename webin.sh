@@ -156,11 +156,11 @@ end_time() { printf "$(NT)  end time of webin process  @  ( ${FAD}$(date)${RESAT
 # INSTALL REQUIRMENT PACKAGE AND SETUP
 
     if [[ ! -d ./wordlist ]]; then
-        mkdir -p "./wordlist" && cd wordlist/ && wget --no-check-certificate "https://raw.githubusercontent.com/1337r0j4n/webin/main/wordlist/admin_panel.txt" && wget "https://raw.githubusercontent.com/1337r0j4n/webin/main/wordlist/xss_payloads.txt"
+        mkdir -p "./wordlist" && cd wordlist/ && wget --no-check-certificate "https://raw.githubusercontent.com/1337r0j4n/webin/main/wordlist/admin_panel.txt" && wget --no-check-certificate "https://raw.githubusercontent.com/1337r0j4n/webin/main/wordlist/xss_payloads.txt"
     fi
 
     if [[ ! -d ./output ]]; then
-        mkdir -p "./output"
+        mkdir -p "webin/output"
     fi
 
 dependencies_pkg()
