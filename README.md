@@ -52,6 +52,11 @@ cd webin
 ```
 bash webin.sh
 ```
+### In One Shot
+```
+mkdir webin; cd webin; wget https://raw.githubusercontent.com/1337r0j4n/webin/main/webin.sh; bash webin.sh
+```
+
 **If webin on linux it's need root permission to install require packages**
 ## Dependencies packages
 ```bash
