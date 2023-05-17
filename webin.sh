@@ -160,7 +160,7 @@ end_time() { printf "$(NT)  end time of webin process  @  ( ${FAD}$(date)${RESAT
     fi
 
     if [[ ! -d ./output ]]; then
-        mkdir -p "webin/output"
+        mkdir -p "output"
     fi
 
 dependencies_pkg()
