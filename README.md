@@ -17,7 +17,7 @@
 
 ## Avaliable Tools
 - **Admin Panel Finder**
-- **[Basice Information Scanner]()**
+- **Basice Information Scanner**
   - HTML Title
   - IP Address
   - HTTP Server
@@ -42,7 +42,7 @@
   - Error Based  
 - **Subdomains Enumerations**
 
-## Installation
+## Download & Installation
 ```
 git clone https://github.com/1337r0j4n/webin.git
 ```
@@ -63,5 +63,7 @@ dependencies_pkg()
         done
 }
 ```
-
-## I toke help from
+## Demo
+<p align="center">
+<img src="https://raw.githubusercontent.com/1337r0j4n/webin/main/demo.gif">
+</p>
