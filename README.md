@@ -52,7 +52,16 @@ cd webin
 ```
 bash webin.sh
 ```
-**If webin on linux it's need root permission to install require package**
-## Dependencies
+**If webin on linux it's need root permission to install require packages**
+## Dependencies packages
+```bash
+dependencies_pkg()
+{
+    pkg=(grep curl dnsutils wget sed awk vim xxd)
+        for pkg in "${pkg[@]}";do
+            command -v $pkg >/dev/null 2>&1 || apt-get install $pkg -y
+        done
+}
+```
 
 ## I toke help from
