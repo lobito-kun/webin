@@ -17,6 +17,8 @@
 
 ## Avaliable Tools
 - **Admin Panel Finder**
+  - Default Wordlist ( 12661 Lines )
+  - Custom Wordlist Can Be Useed
 - **Basice Information Scanner**
   - HTML Title
   - IP Address
@@ -37,24 +39,26 @@
   - Support CMS 10+ ```( WordPres, Joomla, OpenCart, Drupal, Magento, PrestaShop, Concrete5, Weebly, DokuWiki, Jekeyll )```
 - **Mass HTTP Status Code Checker**
 - **Reflected XSS BruteForce**
+  - Default Wordlist ( 2248 Lines )
+  - ~~Custom Wordlist Can Be Used~~
 - **Reverse IP Domains Check**
+  - Unlimited API
 - **SQL Injector**
+  - WAF Bypass
   - Error Based  
+  - ~~Union Based~~
 - **Subdomains Enumerations**
-
+  - Unlimited API
+  - ~~BruteForce With Wordlist~~
 ## Download & Installation
 ```
-git clone https://github.com/1337r0j4n/webin.git
-```
-```
-cd webin
-```
-```
-bash webin.sh
+$ git clone https://github.com/1337r0j4n/webin.git
+$ cd webin
+$ bash webin.sh
 ```
 ### In One Shot
 ```
-mkdir webin; cd webin; wget https://raw.githubusercontent.com/1337r0j4n/webin/main/webin.sh; bash webin.sh
+ mkdir webin; cd webin; wget https://raw.githubusercontent.com/1337r0j4n/webin/main/webin.sh; bash webin.sh
 ```
 
 **If webin on linux it's need root permission to install require packages**
@@ -68,7 +72,7 @@ dependencies_pkg()
         done
 }
 ```
-## Demo
+## Workflow of Webin 
 <p align="center">
 <img src="https://raw.githubusercontent.com/1337r0j4n/webin/main/demo.gif">
 </p>
