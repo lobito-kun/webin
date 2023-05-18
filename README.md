@@ -1,4 +1,4 @@
-<h1 align="center"> WEBIN ( Website Base Exloiting Tools )</h1>
+<h1 align="center"> WEBIN ( Website Base Exploiting Tools )</h1>
 
 <p align="center">
 <img src="https://img.shields.io/badge/Version-1.0-purple?style=for-the-badge">
