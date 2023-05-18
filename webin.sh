@@ -3,7 +3,7 @@
 ##########################################################################
 ##                                                                      ##
 ##    Name       :    Webin ( Website Base Exploiting Tools )           ##
-##    Author     :    7r0j4n                                            ##
+##    Author     :    7r0j4n & Mg 4thm                                  ##
 ##    Version    :    1.0                                               ##
 ##    GitHub     :    github.com/1337r0j4n                              ##
 ##                                                                      ##
