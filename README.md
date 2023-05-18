@@ -62,7 +62,7 @@ $ bash webin.sh
 ```
 
 **If webin on linux it's need root permission to install require packages**
-### Dependencies packages
+### Dependencies Packages
 ```bash
 dependencies_pkg()
 {
