@@ -62,7 +62,7 @@ $ bash webin.sh
 ```
 
 **If webin on linux it's need root permission to install require packages**
-## Dependencies packages
+### Dependencies packages
 ```bash
 dependencies_pkg()
 {
@@ -72,7 +72,9 @@ dependencies_pkg()
         done
 }
 ```
-## Workflow of Webin 
+### Workflow of Webin 
 <p align="center">
 <img src="https://raw.githubusercontent.com/1337r0j4n/webin/main/demo.gif">
 </p>
+
+
