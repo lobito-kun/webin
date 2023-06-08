@@ -3,8 +3,8 @@
 ##########################################################################
 ##                                                                      ##
 ##    Name       :    Webin ( Website Base Exploiting Tools )           ##
-##    Author     :    7r0j4n & Mg 4thm                                  ##
-##    Version    :    1.0                                               ##
+##    Author     :    Tr0y4nw0lf                                        ##
+##    Version    :    1.0 by NixiSystem                                 ##
 ##    GitHub     :    github.com/1337r0j4n                              ##
 ##                                                                      ##
 ##########################################################################
@@ -60,7 +60,7 @@ ${GREEN}       (((((,r@@@@@@@@@@e,)))))    ${RESAT}
 ${GREEN}        (((@@@@@@@@@@@@@@@@)))     ${RESAT}    [   ${GREEN}${BLOD}w e b i n   ${RESAT}]
 ${GREEN}         \@@/${CYAN}${BLOD},:::,${RESAT}${GREEN}\/${CYAN}${BLOD},:::,${RESAT}${GREEN}\\${GREEN}/@@    ${RESAT}
 ${GREEN}        /@@@|${CYAN}${BLOD}:::::${RESAT}${GREEN}||${CYAN}${BLOD}:::::${RESAT}${GREEN}|${GREEN}@@@\    ${RESAT}
-${GREEN}       / @@@\\${CYAN}${BLOD}':::'${RESAT}${GREEN}/\\${CYAN}${BLOD}':::'${RESAT}${GREEN}/${GREEN}@@@ \ ${RESAT}       Author  ${GREEN}:${RESAT}  7r0j4n     
+${GREEN}       / @@@\\${CYAN}${BLOD}':::'${RESAT}${GREEN}/\\${CYAN}${BLOD}':::'${RESAT}${GREEN}/${GREEN}@@@ \ ${RESAT}       Author  ${GREEN}:${RESAT}  Tr0y4nw0lf     
 ${GREEN}      /  /@@@@@@@//\\@@@@@@@@\  \     ${RESAT} Version  ${GREEN}:${RESAT}  1.0
 ${GREEN}     (  /  '@@@@@====@@@@@'  \  )     ${RESAT} Github  ${GREEN}:${RESAT}  1337r0j4n
 ${GREEN}      \(     /          \     )/    ${RESAT}
@@ -81,7 +81,7 @@ echo -e "${GREEN}                |  |'|_/\/|          ${RESAT}"
 echo -e "${GREEN}                ;  |-;| /_|        ${RESAT}[   ${GREEN}${BLOD}w e b i n   ${RESAT}]"
 echo -e "${GREEN}               / \_| |/ \ |          ${RESAT}"
 echo -e "${GREEN}              /      \/\( |          ${RESAT}"
-echo -e "${GREEN}              |   /  |  ) |    ${RESAT}    Author  ${GREEN}:${RESAT}  7r0j4n${RESAT}"
+echo -e "${GREEN}              |   /  |  ) |    ${RESAT}    Author  ${GREEN}:${RESAT}  Tr0y4nw0lf${RESAT}"
 echo -e "${GREEN}              /   \ _/    |    ${RESAT}   Version  ${GREEN}:${RESAT}  1.0${RESAT}"
 echo -e "${GREEN}             /--._/  \    |    ${RESAT}    Github  ${GREEN}:${RESAT}  1337r0j4n${RESAT}"
 echo -e "${GREEN}             ./|)    |    /          ${RESAT}"
@@ -101,7 +101,7 @@ echo -e "${GREEN}               \/\`'\`\\/             ${RESAT}"
 echo -e "${GREEN}            ,  |     |  ,             ${RESAT} [   ${GREEN}${BLOD}w e b i n   ${RESAT}]"
 echo -e "${GREEN}           / \`\|\`-.-\'|/\` \        ${RESAT}"
 echo -e "${GREEN}          /    |  \  |    \           ${RESAT}"
-echo -e "${GREEN}       .-' ,-'\`|   ; |\`'-, '-   .  ${RESAT}    Author  ${GREEN}:${RESAT}  7r0j4n"
+echo -e "${GREEN}       .-' ,-'\`|   ; |\`'-, '-   .  ${RESAT}    Author  ${GREEN}:${RESAT}  Tr0y4nw0lf"
 echo -e "${GREEN}           |   |    \|   |         ${RESAT}   Version  ${GREEN}:${RESAT}  1.0"
 echo -e "${GREEN}           |   |    ;|   |         ${RESAT}    Github  ${GREEN}:${RESAT}  1337r0j4n"
 echo -e "${GREEN}           |   \    //   |            ${RESAT}"
